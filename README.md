@@ -1,4 +1,4 @@
-# Hi there, I'm Benny Oliveira, codename: bennycarvalho13 👋 
+# Hi there, I'm Benny Oliveira (bennycarvalho13) 👋 
 
 ## I'm a Game Developer, and Full Stack developer
 
