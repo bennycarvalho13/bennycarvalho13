@@ -3,7 +3,7 @@
 ## I'm a Game Developer, and Full Stack developer
 
 - 🌱 I’m currently learning new coding languages
-- 🤓 I’m looking to collaborate in new Projects
+- 🖥️ I’m looking to collaborate in Projects
 - ⚡ Fun fact: I love to draw and play games
 
 ### Connect with me:
